@@ -1,0 +1,146 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 4, 2017, 4:48:36 PM
+    Author     : Work
+*/
+html{
+    background-color: #333333
+}
+
+body{
+    
+    background-color: #666666;
+    opacity: 255;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    font-size: 100%;
+}
+
+h1{
+    font-family: 'Oswald', sans-serif;
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+
+div{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    overflow: hidden;
+    background-color: #222222;
+    text-align: center;
+}
+
+li{
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.4em;
+    /*float:left;*/
+    display: inline;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    /*padding-left: 2.5%;
+    padding-right: 2.5%;*/
+    margin-left: 3%;
+    margin-right: 3%;
+    text-align: center;
+}
+
+li a:link {
+    color: #444444;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+li a:visited {
+    color:#444444;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+li a:hover {
+    color:#ffffff;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+li a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: none;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+img{
+    padding: 1%;
+}
+
+#footerDiv{
+    list-style-type: none;
+    padding: 0;
+    overflow: hidden;
+    background-color: #222222;
+    text-align: center;
+    color:#cccccc;
+}
+
+.fa{
+    padding: 10px;
+  font-size: 9.375em;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover{
+    opacity: 0.7;
+}
+
+.fa-facebook, .fa-google, .fa-instagram, .fa-linkedin, .fa-reddit, .fa-rss, .fa-tumblr, .fa-twitter, .fa-vimeo, .fa-youtube{
+    color: #cccccc;
+    background-color: black;
+    
+}
+
+#SaelotsJourneyDiv{
+    background-color: black;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+#SaelotsJourneyDiv img{
+    /*float: left;*/
+    display: inline;
+}
+
+#SaelotDescriptionDiv{
+    /*display: none;*/
+}
+
+/*font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Raleway', sans-serif;*/
+
