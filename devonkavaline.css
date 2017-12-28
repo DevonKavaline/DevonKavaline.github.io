@@ -141,28 +141,10 @@ iframe{
     width: 340px;
     height: 300px;
     display: inline-block;
-    background:transparent url('images/tamwaitsicon.png') center top no-repeat;
+    background:transparent url('tamwaitsicon.png') center top no-repeat;
 }
 #tamwats:hover{
-    background-image: url('images/tamwaitsicon2.png');
-}
-#mordenaparteh{
-    width: 340px;
-    height: 300px;
-    display: inline-block;
-    background:transparent url('images/mordenapartehicon.png') center top no-repeat;
-}
-#mordenaparteh:hover{
-    background-image: url('images/mordenapartehicon2.png');
-}
-#psawarhawk{
-    width: 340px;
-    height: 300px;
-    display: inline-block;
-    background:transparent url('images/psawarhawkicon.png') center top no-repeat;
-}
-#psawarhawk:hover{
-    background-image: url('images/psawarhawkicon2.png');
+    background-image: url('tamwaitsicon2.png');
 }
 #videosection{
     width: 100%;
